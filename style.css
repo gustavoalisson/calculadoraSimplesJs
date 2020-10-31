@@ -1,0 +1,8 @@
+.form-group {
+    margin: auto;
+    padding: 3px;
+}
+
+input {
+    width: 150px !important;
+}
